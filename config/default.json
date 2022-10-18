@@ -1,0 +1,10 @@
+{
+    "dbConfig": {
+        "mongouri2": "mongodb://localhost:27017/",
+        "mongouri1":"mongodb://mirza_ashraf:M%21rz%40%23A%24hraf@54.161.254.222:27017/admin",
+        "db1":"alljobs_prod",
+        "db2": "mydb",
+        "collectionName1":"client_extracted_feed",
+        "collectionName2": "client_extracted_feed_backup"
+    }
+}
